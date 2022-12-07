@@ -12,7 +12,8 @@ Tecnologias que eu utilizo no dia a dia 🖥️
 <div style="text-align: center; display: inline-block;>
 
 <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-                                                                                                                                    
+
+
 <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -39,5 +40,12 @@ Tecnologias que eu utilizo no dia a dia 🖥️
 <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 </div>
+<br>
+<div style="text-align: center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 I am a young, passionate about technology always looking to learn more and more! 🧠🙅‍♂️
