@@ -46,7 +46,8 @@ Tecnologias que eu utilizo no dia a dia 🖥️
 <br>
 <div style="text-align: center">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henriiquerick)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriiquerick&layout=compact)](https://github.com/henriiquerick/github-readme-stats)
+
 
 
 </div>
