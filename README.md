@@ -26,11 +26,9 @@ Sou Engenheiro de Dados no Itaú Unibanco, especializado em Inteligência Artifi
 
 ### Ferramentas de Visualização & BI
 ![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Cloud & Infraestrutura
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
