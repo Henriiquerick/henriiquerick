@@ -1,57 +1,76 @@
-### Hello, i'm Rickson Henrique 😊
-
+# Rickson Henrique 👨‍💻
+### Engenheiro de Dados | Especialista em IA | Itaú Unibanco
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriiquerick/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rickson-henrique-570109219/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/henriiquerick)
 
+## Sobre mim 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriiquerick&show_icons=true&theme=dark)
+Sou Engenheiro de Dados no Itaú Unibanco, especializado em Inteligência Artificial e análise de dados. Trabalho com desenvolvimento de soluções analíticas, pipelines de processamento de dados e ferramentas de automação que melhoram a tomada de decisão e otimizam processos.
 
+## Experiência e Habilidades 🚀
 
-Tecnologias que eu utilizo no dia a dia 🖥️
+- **Engenharia de Dados**: Construção de pipelines ETL, modelagem dimensional e projetos de Data Lake
+- **Business Intelligence**: Desenvolvimento de dashboards analíticos e KPIs estratégicos
+- **Data Science & IA**: Implementação de modelos preditivos e soluções baseadas em machine learning
+- **Análise de Dados**: Relatórios avançados, análise de cubo de dados e dimensões
 
-<div style="text-align: center; display: inline-block;>
+## Stack Tecnológico 🖥️
 
-<img align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=whitee">
+### Linguagens de Programação & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+### Ferramentas de Visualização & BI
+![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+### Cloud & Infraestrutura
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+## Projetos em Destaque 💼
 
-<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+> Nota: Como atuo no setor financeiro, muitos projetos são confidenciais e não podem ser compartilhados publicamente. Abaixo estão projetos pessoais e estudos que demonstram minhas habilidades.
 
+### [Análise de Dados Financeiros](https://github.com/Henriiquerick/financial-data-analysis)
+Análise exploratória de dados financeiros públicos utilizando Python, Pandas e visualizações interativas.
 
-</div>
+### [ETL Pipeline para Processamento de Dados](https://github.com/Henriiquerick/etl-pipeline-demo)
+Demonstração de pipeline ETL para processar, transformar e carregar dados estruturados e não-estruturados.
 
-<div style="text-align: center; display: flex; width: 500px;">
+### [Dashboard Analítico de Investimentos](https://github.com/Henriiquerick/investment-analytics-dashboard)
+Painel interativo para análise de investimentos e métricas financeiras desenvolvido com React e D3.js.
 
-<img align="center" alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+## Estatísticas GitHub 📈
 
-<img align="center" alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=henriiquerick&show_icons=true&theme=dark)
 
-<img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+## Linguagens Mais Utilizadas 📊
 
-<img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-                                                                                                                            
-<img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-                                                                                                                                
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-                                                                                                                                
-</div>
-<br>
-<div style="text-align: center">
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henriiquerick&layout=compact&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriiquerick&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## Certificações 🏆
 
+- AWS Certified Data Analytics - Specialty
+- Azure Data Engineer Associate
+- Machine Learning Specialist
 
+## Contato 📫
 
+Sinta-se à vontade para entrar em contato para discutir oportunidades de colaboração ou compartilhar conhecimentos sobre engenharia de dados e IA!
 
-</div>
+---
 
-
-I am a young, passionate about technology always looking to learn more and more! 🧠🙅‍♂️
+⭐️ De [Henriiquerick](https://github.com/Henriiquerick)
