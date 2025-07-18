@@ -59,11 +59,6 @@ Painel interativo para análise de investimentos e métricas financeiras desenvo
 
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henriiquerick&layout=compact&theme=dark)
 
-## Certificações 🏆
-
-- AWS Certified Data Analytics - Specialty
-- Azure Data Engineer Associate
-- Machine Learning Specialist
 
 ## Contato 📫
 
